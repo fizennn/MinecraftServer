@@ -1,29 +1,61 @@
-[15:41:15] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[15:41:15] [ServerMain/INFO]: No existing world data, creating new world
-[15:41:16] [ServerMain/INFO]: Loaded 1373 recipes
-[15:41:16] [ServerMain/INFO]: Loaded 1484 advancements
-[15:41:16] [Server thread/INFO]: Starting minecraft server version 1.21.5
-[15:41:16] [Server thread/INFO]: Loading properties
-[15:41:16] [Server thread/INFO]: Default game type: SURVIVAL
-[15:41:16] [Server thread/INFO]: Generating keypair
-[15:41:16] [Server thread/INFO]: Starting Minecraft server on *:25565
-[15:41:16] [Server thread/INFO]: Using default channel type
-[15:41:16] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[15:41:16] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[15:41:16] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[15:41:16] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[15:41:16] [Server thread/INFO]: Preparing level "world"
-[15:41:19] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[15:41:19] [Worker-Main-3/INFO]: Preparing spawn area: 2%
-[15:41:20] [Worker-Main-4/INFO]: Preparing spawn area: 2%
-[15:41:20] [Worker-Main-8/INFO]: Preparing spawn area: 2%
-[15:41:20] [Worker-Main-9/INFO]: Preparing spawn area: 18%
-[15:41:21] [Worker-Main-4/INFO]: Preparing spawn area: 51%
-[15:41:21] [Server thread/INFO]: Time elapsed: 2404 ms
-[15:41:21] [Server thread/INFO]: Done (5.050s)! For help, type "help"
-[15:42:21] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[15:47:18] [Server thread/INFO]: fizennn[/127.0.0.1:50281] logged in with entity id 26 at (6.5, 104.0, 10.5)
-[15:47:18] [Server thread/INFO]: fizennn joined the game
-[15:49:09] [Server thread/INFO]: fizennn lost connection: Disconnected
-[15:49:09] [Server thread/INFO]: fizennn left the game
-[15:50:09] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[12:06:04] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[12:06:08] [ServerMain/INFO]: Loaded 1373 recipes
+[12:06:08] [ServerMain/INFO]: Loaded 1484 advancements
+[12:06:08] [Server thread/INFO]: Starting minecraft server version 1.21.5
+[12:06:08] [Server thread/INFO]: Loading properties
+[12:06:08] [Server thread/INFO]: Default game type: SURVIVAL
+[12:06:08] [Server thread/INFO]: Generating keypair
+[12:06:08] [Server thread/INFO]: Starting Minecraft server on *:25565
+[12:06:09] [Server thread/INFO]: Using epoll channel type
+[12:06:09] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[12:06:09] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[12:06:09] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[12:06:09] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[12:06:09] [Server thread/INFO]: Preparing level "world"
+[12:06:09] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[12:06:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:06:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:06:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:06:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:06:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:06:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:06:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:06:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:06:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:06:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:06:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:06:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:06:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:06:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:06:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:06:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:06:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:06:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:06:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:06:19] [Server thread/INFO]: Time elapsed: 9310 ms
+[12:06:19] [Server thread/INFO]: Done (9.872s)! For help, type "help"
+[12:06:29] [Server thread/INFO]: fizennn[/14.235.21.84:53136] logged in with entity id 67 at (-78.9704025007954, 84.0, -34.31967477646089)
+[12:06:29] [Server thread/INFO]: fizennn joined the game
+[12:09:54] [Server thread/INFO]: fizennn lost connection: Disconnected
+[12:09:55] [Server thread/INFO]: fizennn left the game
+[12:10:54] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[12:19:24] [Server thread/INFO]: Stopping server
+[12:19:24] [Server thread/INFO]: Saving players
+[12:19:24] [Server thread/INFO]: Saving worlds
+[12:19:24] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: Input/output error
+	at java.base/java.io.FileInputStream.readBytes(Native Method) ~[?:?]
+	at java.base/java.io.FileInputStream.read(FileInputStream.java:287) ~[?:?]
+	at java.base/java.io.BufferedInputStream.read1(BufferedInputStream.java:345) ~[?:?]
+	at java.base/java.io.BufferedInputStream.implRead(BufferedInputStream.java:420) ~[?:?]
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:399) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:350) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:393) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.lockedRead(StreamDecoder.java:217) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.read(StreamDecoder.java:171) ~[?:?]
+	at java.base/java.io.InputStreamReader.read(InputStreamReader.java:188) ~[?:?]
+	at java.base/java.io.BufferedReader.fill(BufferedReader.java:160) ~[?:?]
+	at java.base/java.io.BufferedReader.implReadLine(BufferedReader.java:370) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:347) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:436) ~[?:?]
+	at aqr$1.run(SourceFile:102) [server-1.21.5.jar:?]
