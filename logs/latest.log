@@ -1,61 +1,70 @@
-[12:06:04] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[12:06:08] [ServerMain/INFO]: Loaded 1373 recipes
-[12:06:08] [ServerMain/INFO]: Loaded 1484 advancements
-[12:06:08] [Server thread/INFO]: Starting minecraft server version 1.21.5
-[12:06:08] [Server thread/INFO]: Loading properties
-[12:06:08] [Server thread/INFO]: Default game type: SURVIVAL
-[12:06:08] [Server thread/INFO]: Generating keypair
-[12:06:08] [Server thread/INFO]: Starting Minecraft server on *:25565
-[12:06:09] [Server thread/INFO]: Using epoll channel type
-[12:06:09] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[12:06:09] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[12:06:09] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[12:06:09] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[12:06:09] [Server thread/INFO]: Preparing level "world"
-[12:06:09] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[12:06:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[12:06:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[12:06:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[12:06:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[12:06:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[12:06:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[12:06:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[12:06:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[12:06:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[12:06:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[12:06:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[12:06:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[12:06:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[12:06:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[12:06:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[12:06:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[12:06:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[12:06:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[12:06:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[12:06:19] [Server thread/INFO]: Time elapsed: 9310 ms
-[12:06:19] [Server thread/INFO]: Done (9.872s)! For help, type "help"
-[12:06:29] [Server thread/INFO]: fizennn[/14.235.21.84:53136] logged in with entity id 67 at (-78.9704025007954, 84.0, -34.31967477646089)
-[12:06:29] [Server thread/INFO]: fizennn joined the game
-[12:09:54] [Server thread/INFO]: fizennn lost connection: Disconnected
-[12:09:55] [Server thread/INFO]: fizennn left the game
-[12:10:54] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[12:19:24] [Server thread/INFO]: Stopping server
-[12:19:24] [Server thread/INFO]: Saving players
-[12:19:24] [Server thread/INFO]: Saving worlds
-[12:19:24] [Server console handler/ERROR]: Exception handling console input
-java.io.IOException: Input/output error
-	at java.base/java.io.FileInputStream.readBytes(Native Method) ~[?:?]
-	at java.base/java.io.FileInputStream.read(FileInputStream.java:287) ~[?:?]
-	at java.base/java.io.BufferedInputStream.read1(BufferedInputStream.java:345) ~[?:?]
-	at java.base/java.io.BufferedInputStream.implRead(BufferedInputStream.java:420) ~[?:?]
-	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:399) ~[?:?]
-	at java.base/sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:350) ~[?:?]
-	at java.base/sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:393) ~[?:?]
-	at java.base/sun.nio.cs.StreamDecoder.lockedRead(StreamDecoder.java:217) ~[?:?]
-	at java.base/sun.nio.cs.StreamDecoder.read(StreamDecoder.java:171) ~[?:?]
-	at java.base/java.io.InputStreamReader.read(InputStreamReader.java:188) ~[?:?]
-	at java.base/java.io.BufferedReader.fill(BufferedReader.java:160) ~[?:?]
-	at java.base/java.io.BufferedReader.implReadLine(BufferedReader.java:370) ~[?:?]
-	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:347) ~[?:?]
-	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:436) ~[?:?]
-	at aqr$1.run(SourceFile:102) [server-1.21.5.jar:?]
+[12:46:24] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[12:46:28] [ServerMain/INFO]: Loaded 1373 recipes
+[12:46:28] [ServerMain/INFO]: Loaded 1484 advancements
+[12:46:28] [Server thread/INFO]: Starting minecraft server version 1.21.5
+[12:46:28] [Server thread/INFO]: Loading properties
+[12:46:28] [Server thread/INFO]: Default game type: SURVIVAL
+[12:46:28] [Server thread/INFO]: Generating keypair
+[12:46:29] [Server thread/INFO]: Starting Minecraft server on *:25565
+[12:46:29] [Server thread/INFO]: Using epoll channel type
+[12:46:29] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[12:46:29] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[12:46:29] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[12:46:29] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[12:46:29] [Server thread/INFO]: Preparing level "world"
+[12:46:30] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[12:46:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:46:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:46:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:46:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:46:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:46:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:46:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:46:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:46:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:46:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:46:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:46:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:46:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:46:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:46:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:46:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:46:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:46:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:46:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:46:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:46:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:46:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:46:41] [Server thread/INFO]: Time elapsed: 11122 ms
+[12:46:41] [Server thread/INFO]: Done (11.949s)! For help, type "help"
+[12:47:02] [Server thread/INFO]: fizennn[/14.235.21.84:53400] logged in with entity id 34 at (-100.03604999883314, 96.0, -35.90913594109651)
+[12:47:02] [Server thread/INFO]: fizennn joined the game
+[12:48:00] [Server thread/INFO]: fizennn lost connection: Disconnected
+[12:48:00] [Server thread/INFO]: fizennn left the game
+[12:49:00] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[12:51:34] [Server thread/INFO]: fizennn[/14.235.21.84:53407] logged in with entity id 556 at (-214.51698119163538, 111.0, -123.31543535143396)
+[12:51:35] [Server thread/INFO]: fizennn joined the game
+[12:51:37] [Server thread/INFO]: fizennn lost connection: Disconnected
+[12:51:37] [Server thread/INFO]: fizennn left the game
+[12:52:37] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[12:59:47] [Server thread/INFO]: fizennn[/14.235.21.84:53449] logged in with entity id 715 at (-214.51698119163538, 111.0, -123.31543535143396)
+[12:59:47] [Server thread/INFO]: fizennn joined the game
+[13:00:36] [Server thread/INFO]: fizennn lost connection: Disconnected
+[13:00:36] [Server thread/INFO]: fizennn left the game
+[13:01:36] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[13:04:54] [Server thread/INFO]: fizennn[/14.235.21.84:53505] logged in with entity id 1113 at (-184.73655093738378, 106.0, -168.25444067217643)
+[13:04:55] [Server thread/INFO]: fizennn joined the game
+[13:05:20] [Server thread/INFO]: fizennn was blown up by Creeper
+[13:06:02] [Server thread/WARN]: fizennn moved too quickly! -1.9147440399248523,-8.433491312602868,-6.049463847636488
+[13:06:23] [Server thread/INFO]: fizennn was slain by Spider
+[13:09:08] [Server thread/INFO]: fizennn has made the advancement [Monster Hunter]
+[13:11:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 68207ms or 1364 ticks behind
+[13:11:38] [Server Watchdog/ERROR]: A single server tick took 67.86 seconds (should be max 0.05)
+[13:11:38] [Server Watchdog/ERROR]: Considering it to be crashed, server will forcibly shutdown.
+[13:11:39] [Server thread/INFO]: fizennn lost connection: Disconnected
+[13:11:39] [Server thread/INFO]: fizennn left the game
+[13:11:40] [Server thread/INFO]: fizennn (/14.235.21.84:53699) lost connection: Disconnected
+[13:11:41] [Server Watchdog/ERROR]: This crash report has been saved to: /home/ubuntu/minecraft/MinecraftServer/crash-reports/crash-2025-04-28_13.11.41-server.txt
+[13:11:41] [Server thread/INFO]: Stopping server
+[13:11:41] [Server thread/INFO]: Saving players
+[13:11:41] [Server thread/INFO]: Saving worlds
